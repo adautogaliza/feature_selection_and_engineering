@@ -6,7 +6,9 @@ realizar uma análise explortóra dos dados, construir modelos de clasificação
 De maneira geral o objetivo foi:
 
 1º Desenvolver insghts entre as features através da EDA;
+
 2º Contruir modelos preditivos que fossem capaz de informar se um determinado anúncio irá gerar um Lead ou não;
+
 3º Propor a construção de regressores que possam prever a quantidade de leads que um anúncio pode gerar a partir de suas características principais.
 
 Para a construção dos modelos utilizamos:
