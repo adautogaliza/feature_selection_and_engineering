@@ -15,3 +15,5 @@ Para a construção dos modelos utilizamos:
  - Técnicas de Target Enconding para lidarmos com as features de alta cardinalidade consideradas impróprias para métodos como o OneHotEnconding;
  - Aplicação do método de Mutual Information para selectionar e filtrar features com maior poder preditivo com nosso o target;
  - Criar novas features usando técnicas de clusterização através do algoritmo K-means.
+
+Ao todo construímos 4 modelos de classificação (RandomForest, Regressão Logística, Knn e Naive Bayes) além de outros 4 modelos regressivos (Linear, MLPRegressor, RandomForest e ElasticNet).
