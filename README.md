@@ -7,7 +7,7 @@ De maneira geral o objetivo foi:
 
 1º Desenvolver insghts entre as features através da EDA;
 
-2º Contruir modelos preditivos que fossem capaz de informar se um determinado anúncio irá gerar um Lead ou não;
+2º Contruir modelos preditivos capazes de informar se um determinado anúncio irá gerar um Lead ou não;
 
 3º Propor a construção de regressores que possam prever a quantidade de leads que um anúncio pode gerar a partir de suas características principais.
 
